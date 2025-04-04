@@ -69,7 +69,7 @@
   <section id="contact">
     <div class="container">
       <h2 class="header text_h2">Get In Touch</h2>
-      <p class="contact-info">If you'd like to collaborate on a project or just say hello, feel free to reach out!</p>
+      <p class="contact-info">If you'd like to collab on a project or just say hi, don't be a stranger!</p>
       <ul class="social-icons">
         <li><a class="github-link" href="https://github.com/samantha-zheng"><i class="fa fa-github fa-2x tooltipped" data-position="top" data-delay="50" data-tooltip="Github"></i></a></li>
         <li><a class="linkedin-link" href="https://www.linkedin.com/in/samzheng99"><i class="fa fa-linkedin fa-2x tooltipped" data-position="top" data-delay="50" data-tooltip="LinkedIn"></i></a></li>
