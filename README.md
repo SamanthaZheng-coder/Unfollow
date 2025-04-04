@@ -39,7 +39,7 @@
   <!-- About Section -->
   <section id="about">
     <div class="container">
-      <h2 class="center header text_h2" id="about-header"> Hi there, I'm <span class="span_h2"> Samantha Zheng</span>! I am a recent graduate from General Assembly's <span class="span_h2"> Web Development Immersive </span> program and a web developer based in <span class="span_h2"> New York </span>.</h2>
+      <h2 class="center header text_h2" id="about-header"> Hi there, I'm <span class="span_h2"> Samantha Zheng</span>! I am a recent graduate from NYU <span class="span_h2"> Communications and Media </span> program and a web developer based in <span class="span_h2"> New York </span>.</h2>
       <p class="bio-text">I specialize in front-end web development with a strong focus on building responsive and interactive websites. My passion for coding comes from a desire to continuously learn and innovate. I believe in writing clean and maintainable code while always keeping the user experience in mind.</p>
     </div>
   </section>
